@@ -1,0 +1,13 @@
+{
+    "jscodehints.detectedExclusions": [
+        "/Users/Rony/projects/my_reditt/www/lib/ionic/js/ionic.min.js",
+        "/Users/Rony/projects/my_reditt/platforms/ios/www/plugins/cordova-plugin-splashscreen/www/splashscreen.js",
+        "/Users/Rony/projects/my_reditt/platforms/ios/www/plugins/cordova-plugin-statusbar/www/statusbar.js",
+        "/Users/Rony/projects/my_reditt/platforms/ios/www/plugins/ionic-plugin-keyboard/www/ios/keyboard.js",
+        "/Users/Rony/projects/my_reditt/plugins/cordova-plugin-console/tests/tests.js",
+        "/Users/Rony/projects/my_reditt/plugins/cordova-plugin-console/www/console-via-logger.js",
+        "/Users/Rony/projects/my_reditt/plugins/cordova-plugin-console/www/logger.js",
+        "/Users/Rony/projects/my_reditt/plugins/cordova-plugin-device/src/blackberry10/index.js",
+        "/Users/Rony/projects/my_reditt/www/js/app.js"
+    ]
+}
